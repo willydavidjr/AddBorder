@@ -12,6 +12,8 @@ namespace AddBorder
         {
             string[] border = new string[] { "abc", "ded" };
             string[] result = addBorder(border);
+
+
         }
 
         static string[] addBorder(string[] picture)
